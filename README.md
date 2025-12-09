@@ -173,4 +173,4 @@ Open the ngrok URL on phone.
 ✔ Multi-device UI access
 ✔ Real AI engineering workflow using Google ADK
 
-Feel free to add calorie calculators, safety checks, or multi-agent orchestration.
+
